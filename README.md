@@ -2,13 +2,13 @@
 
 ### 🇬🇧 
 
-Hello! My name is **Alexey**, my age is **26**.  
+Hello! My name is **Alexey**, my age is **27**.  
 I'm a Unity developer. I work with both 3D and 2D, but I especially love games based on grids.  
 I speak **Russian**, **English**, and **French**.
 
 ### 🇷🇺 
 
-Привет! Меня зовут **Алексей**, мне **26** лет.  
+Привет! Меня зовут **Алексей**, мне **27** лет.  
 Я Unity разработчик. Работаю как с 3D, так и с 2D, но особенно люблю игры, основанные на сетках.   
 Владею **русским**, **английским** и **французским** языками.
 
