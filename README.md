@@ -8,9 +8,9 @@ Hello! My name is **Alexey**, my age is **27**.
 I'm a Unity developer. I work with both 3D and 2D, but I especially love games based on grids.  
 I speak **Russian**, **English**, and **French**.
 
-Completed an intensive program at “School 21” by Sberbank (formerly Ecole 42) — 26 days without breaks, ~10 hours per day on campus.  
-Learned the basics of C, Git, Bash, and Linux. The program included 15 individual assignments, 3 group projects, and 3 exams.  
-Currently awaiting the decision on enrollment in the main program.
+I am currently studying at **School 21** by Sberbank (formerly Ecole 42) in the main backend program.
+During the intensive training (the Piscine), I learned the basics of C, Git, Bash, and Linux.
+The program included 15 individual tasks, 3 group projects, and 3 exams, over 26 consecutive days with no days off, spending about 10 hours a day on campus.
 
 ### 🇷🇺 
 
@@ -18,9 +18,8 @@ Currently awaiting the decision on enrollment in the main program.
 Я Unity разработчик. Работаю как с 3D, так и с 2D, но особенно люблю игры, основанные на сетках.   
 Владею **русским**, **английским** и **французским** языками.
 
-Прошел интенсив в «Школе 21» от Сбербанка (бывшая Ecole 42) — 26 дней без выходных по ~10 часов в день в кампусе.  
-Освоил основы C, Git, Bash, Linux. Программа из 15 персональных заданий, 3 групповых проектов и 3 экзаменов.  
-Сейчас ожидаю решения о зачислении на основное обучение.
+Сейчас обучаюсь в **«Школе 21»** от Сбербанка (бывшая Ecole 42) на основном обучении по направлению backend.
+Во время интенсива (басейна) освоил основы C, Git, Bash, Linux. Программа из 15 персональных заданий, 3 групповых проектов и 3 экзаменов. 26 дней без выходных по ~10 часов в день в кампусе. 
 
 ## Projects
 - [Cookieman](https://github.com/CyanV98/Cookieman) (Pacman like game)
