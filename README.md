@@ -22,30 +22,30 @@ The program included 15 individual tasks, 3 group projects, and 3 exams, over 26
 Во время интенсива (басейна) освоил основы C, Git, Bash, Linux. Программа из 15 персональных заданий, 3 групповых проектов и 3 экзаменов. 26 дней без выходных по ~10 часов в день в кампусе. 
 
 ## Projects
-- [Cookieman](https://github.com/CyanV98/Cookieman) (Pacman like game)
-- [Yandex Music playlist exporter](https://github.com/CyanV98/yandex-music-playlist-exporter) (Browser extension that saves tracks from the Yandex Music playlist as a text file)
+- [Cookieman](https://github.com/wilfreal98/Cookieman) (Pacman like game)
+- [Yandex Music playlist exporter](https://github.com/wilfreal98/yandex-music-playlist-exporter) (Browser extension that saves tracks from the Yandex Music playlist as a text file)
 
 #### No source code, but still interesting to watch:
 - [Minesweeper](https://yandex.ru/games/app/408716?draft=true&lang=ru) (Classic minesweeper upgraded to a full-fledged browser game with ads, in-game purchases, analytics, etc.)
-- [SUNSHAMAN](https://cyanv.itch.io/sunshaman) (Rhythm game)
-- [Island Generator](https://cyanv.itch.io/simple-island-generator)
+- [SUNSHAMAN](https://wilfreal.itch.io/sunshaman) (Rhythm game)
+- [Island Generator](https://wilfreal.itch.io/simple-island-generator)
 
 (More coming in the future)
 
 
 ## Contacts
-- **Email**: [cyanv98@gmail.com](mailto:cyanv98@gmail.com)
-- **Telegram**: [@CyanV_98](https://t.me/CyanV_98)
-- **Discord**: [cyanv98](https://discordapp.com/users/236759822727512064)
+- **Email**: [direct@wilfreal.ru](mailto:direct@wilfreal.ru)
+- **Telegram**: [@wilfreal_job](https://t.me/wilfreal_job)
+- **Discord**: [wilfreal](https://discordapp.com/users/236759822727512064)
 
 <div align="center"> 
   <a href="https://cyanv.itch.io/">itch.io</a>
   <a>•</a>
   <a href="https://yandex.ru/games/developer/60563">Yandex Games</a>
   <a>•</a>
-  <a href="https://github.com/CyanV98">GitHub</a>
+  <a href="https://github.com/wilfreal98">GitHub</a>
   <a>•</a>
-  <a href="https://t.me/CyanV_98">Telegram</a>
+  <a href="https://t.me/wilfreal_job">Telegram</a>
   <a>•</a>
-  <a href="https://www.youtube.com/@CyanV98">YouTube</a>
+  <a href="https://www.youtube.com/@wilfreal">YouTube</a>
 </div>
